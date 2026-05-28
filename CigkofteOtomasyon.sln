@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CigkofteOtomasyon", "CigkofteOtomasyon.csproj", "{B0447762-F15D-4D78-A034-3CED23461993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0447762-F15D-4D78-A034-3CED23461993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0447762-F15D-4D78-A034-3CED23461993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0447762-F15D-4D78-A034-3CED23461993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0447762-F15D-4D78-A034-3CED23461993}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B3D5B83-261E-4A4F-82D9-46F0D541A82D}
+	EndGlobalSection
+EndGlobal
